@@ -1,1 +1,34 @@
+.wy-nav-side {
+  display: none;
+}
 
+.wy-nav-content {
+  margin-left: 0 !important;
+  max-width: 800px;
+  margin: auto;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.hero h1 {
+  font-size: 32px;
+  color: #2c3e50;
+}
+
+.btn {
+  display: inline-block;
+  background: #1a73e8;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 15px;
+}
+
+.content h2 {
+  color: #0a7c6f;
+  margin-top: 30px;
+}
