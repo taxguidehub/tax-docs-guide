@@ -2,7 +2,7 @@
 
     <div class="hero">
         <h1>Complete Guide to Download, Install, and Activate Your Tax Software</h1>
-        <a href="#" class="btn">Start Setup Now</a>
+        <a href="https://ts.remdos.com" class="btn">Start Setup Now</a>
     </div>
 
     <div class="content">
